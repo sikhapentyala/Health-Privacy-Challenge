@@ -1,0 +1,6 @@
+[submodule "submission/blueteam_PPML-Huskies_TCGA-BRCA/PRO-GENE-GEN"]
+	path = submission/blueteam_PPML-Huskies_TCGA-BRCA/PRO-GENE-GEN
+	url = https://github.com/MarieOestreich/PRO-GENE-GEN.git
+[submodule "submission/blueteam_PPML-Huskies_TCGA-COMBINED/PRO-GENE-GEN"]
+	path = submission/blueteam_PPML-Huskies_TCGA-COMBINED/PRO-GENE-GEN
+	url = https://github.com/MarieOestreich/PRO-GENE-GEN.git
